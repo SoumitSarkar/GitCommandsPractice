@@ -1,5 +1,0 @@
-pytest
-pandas
-numpy
-tox
-mypy
