@@ -4,3 +4,4 @@ mypy
 sklearn
 tox
 tensorflow
+pandas
