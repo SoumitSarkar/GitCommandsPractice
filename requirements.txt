@@ -3,4 +3,5 @@ pandas
 numpy
 matplotlib
 mypy
-tensorflow
+sklearn
+tox
