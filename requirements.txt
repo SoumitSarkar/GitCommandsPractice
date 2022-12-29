@@ -3,4 +3,4 @@ matplotlib
 mypy
 sklearn
 tox
-pandas
+tensorflow
