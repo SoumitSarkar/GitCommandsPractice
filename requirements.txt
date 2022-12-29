@@ -2,8 +2,3 @@ numpy
 matplotlib
 mypy
 sklearn
-tox
-tensorflow
-pandas
-pytest
-mypy
