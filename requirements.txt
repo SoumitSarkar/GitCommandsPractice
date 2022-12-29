@@ -1,6 +1,1 @@
 numpy
-matplotlib
-mypy
-sklearn
-tox
-tensorflow
