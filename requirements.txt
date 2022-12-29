@@ -3,5 +3,3 @@ matplotlib
 mypy
 sklearn
 prince
-pandas
-tox
