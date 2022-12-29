@@ -5,3 +5,5 @@ sklearn
 tox
 tensorflow
 pandas
+pytest
+mypy
